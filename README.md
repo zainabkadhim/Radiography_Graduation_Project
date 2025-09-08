@@ -1,8 +1,8 @@
 <h2> Technologists’ Competency in Computed Tomography (CT) Practice in Salmaniya Medical Complex: A Self-Based Assessment  </h2>
 <h3> Background </h3>
- <h4> Competency in computed tomography (CT) practice is essential to ensure high
-quality imaging and minimize radiation dose.  In Salmaniya Medical Complex (SMC), differences 
-in educational and training backgrounds among its CT technologists have raised concerns about 
+ <h4> Competency in computed tomography (CT) practice is essential to ensure high quality imaging and minimize radiation dose.  In Salmaniya Medical Complex (SMC), differences in educational and training backgrounds among its CT technologists have raised concerns about in educational and training backgrounds among its CT technologists have raised concerns about 
+
+
 the standardization of CT practice. </h4>
 <h3> Aim </h3>
  <h4> To assess the competency level of CT technologists in SMC and identify factors 
